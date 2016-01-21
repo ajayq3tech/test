@@ -14,5 +14,6 @@
 <!-- the result of the search will be rendered inside this div -->
 <div id="result"></div>
   <?php echo 'ajay shanker'; ?>
+   <?php echo 'PHP Developer'; ?>
 </body>
 </html>
